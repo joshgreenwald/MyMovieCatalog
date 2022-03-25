@@ -48,7 +48,7 @@ meet the requirements of each task.
     * Adding a director to a movie
         * What happens in the case where a movie has more than one director, like The Matrix?
 
-6. You just sold some of your movies at a garage sale. Create an endpoint to delete a movie. Remember, you might not know the ID of a movie in the database, but you do know the title and release year.
+6. You just sold some of your movies at a garage sale. Create an endpoint to delete a movie.
 
 ## Submitting Your Code
 
