@@ -1,6 +1,8 @@
 # My Movie Catalog Sample Repository
 
-This code repository is intended to test your knowledge of ASP.NET Core Web API projects.
+This code repository is intended to test your knowledge of ASP.NET Core Web API projects. It should take approximately 
+1-2 hours to complete. 
+
 The purpose of this API is to manage your movie collection.
 
 It doesn't do much yet though! Currently, there is just one stub API Controller and an Entity Framework data context.
@@ -34,16 +36,19 @@ meet the requirements of each task.
    * Make sure that the movie doesn't exist (a movie is considered a duplicate if it has the same title and release year)
 
 3. You want to track how much you liked a movie. 
-  * Create a new attribute on the Movie entity called **Stars**
-  * **Stars** accepts a critic rating in between 1 and 5
-  * Make sure that other developers on the project can easily update their database with this new entity after they pull down your changes
+    * Create a new attribute on the Movie entity called **Stars**
+    * **Stars** accepts a critic rating in between 1 and 5
+    * Make sure that other developers on the project can easily update their database with this new entity after they pull down your changes
 
 4. Now that you have a new attribute, you notice that you don't have an endpoint to edit a movie. Go ahead and make one.
 
 5. Now, you want to store information about movie directors and the movies in your collection that they directed. It is up to you to determine the architecture and implementation of the below:
-  * The storage of director data
-  * Creating a new director 
-  * Adding a director to a movie
-    * What happens in the case where a movie has more than one director, like The Matrix?
+    * The storage of director data
+    * Creating a new director 
+    * Adding a director to a movie
+        * What happens in the case where a movie has more than one director, like The Matrix?
 
 6. You just sold some of your movies at a garage sale. Create an endpoint to delete a movie. Remember, you might not know the ID of a movie in the database, but you do know the title and release year.
+
+**Disclaimer:** None of the code you submit will be used in real-world situations and is purely used for education
+and feedback. If you find that it's taking you more than an hour or two to complete, please let us know.
