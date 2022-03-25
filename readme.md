@@ -27,7 +27,7 @@ Run this migration to create the database and seed data.
 
 ## Tasks
 
-**Fork this repository**. Let us know the URL of your forked repository when you are done. Again, you can complete them however you like, as long as you 
+Again, you can complete these tasks however you like, as long as you 
 meet the requirements of each task. 
 
 1. Change the default Get method in MoviesController to return the collection of your movies.
@@ -50,5 +50,11 @@ meet the requirements of each task.
 
 6. You just sold some of your movies at a garage sale. Create an endpoint to delete a movie. Remember, you might not know the ID of a movie in the database, but you do know the title and release year.
 
-**Disclaimer:** None of the code you submit will be used in real-world situations and is purely used for education
+## Submitting Your Code
+
+As we don't want answers to be public, please zip up your code and send it to josh.greenwald@stratusinnovations.com.
+
+## Disclaimer
+
+None of the code you submit will be used in real-world situations and is purely used for education
 and feedback. If you find that it's taking you more than an hour or two to complete, please let us know.
