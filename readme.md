@@ -43,7 +43,7 @@ meet the requirements of each task.
 4. Now that you have a new attribute, you notice that you don't have an endpoint to edit a movie. Go ahead and make one.
 
 5. Now, you want to store information about movie directors and the movies in your collection that they directed. It is up to you to determine the architecture and implementation of the below:
-    * The storage of director data
+    * The storage and retrieval of director data
     * Creating a new director 
     * Adding a director to a movie
         * What happens in the case where a movie has more than one director, like The Matrix?
