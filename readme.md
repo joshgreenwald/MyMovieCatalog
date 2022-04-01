@@ -50,6 +50,18 @@ meet the requirements of each task.
 
 6. You just sold some of your movies at a garage sale. Create an endpoint to delete a movie.
 
+## Bonus: Unit Tests 
+
+These tasks are optional, but feel free to do them if you would like to display your understanding of writing basic unit tests. Feel free to use the testing library of your choice, so long as the tests can be run in Test Explorer in Visual Studio.
+
+1. Add a unit test for Movies->Get that verifies that:
+    * The method returns a collection of movies
+    * The method returns the same number of movies as what you have in your mock repository
+
+2. Add a unit test for Movies->Post that verifies that:
+    * A new movie object is returned
+    * The new movie object matches the data sent in the request body
+
 ## Submitting Your Code
 
 As we don't want answers to be public, please zip up your code and send it to josh.greenwald@stratusinnovations.com.
